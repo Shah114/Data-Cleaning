@@ -2,7 +2,7 @@
 <br/>
 Data cleaning is one of the important parts of machine learning. It plays a significant part in building a model.<br/>
 <br/>
-**What is Data Cleaning**<br/>
+**What is Data Cleaning** <br/>
 Data cleaning is a crucial step in the machine learning (ML) pipeline, as it involves identifying and removing any **missing, duplicate, or irrelevant data**. The goal of data cleaning is to ensure that the data is accurate, consistent, and free of errors, as incorrect or inconsistent data can negatively impact the performance of the ML model. Professional data scientists usually invest a very large portion of their time in this step because of the belief that **“Better data beats fancier algorithms”**.<br/>
 <br/>
 
